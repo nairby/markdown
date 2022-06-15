@@ -1,4 +1,3 @@
-# H1
-## H2
-### H3
-text
+# Picture
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
